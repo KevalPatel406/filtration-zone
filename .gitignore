@@ -1,0 +1,10 @@
+.env
+
+coverage
+/coverage
+
+build/Release
+/build
+
+node_modules/
+/node_modules

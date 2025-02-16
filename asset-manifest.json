@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/filtration-zone/static/css/main.8f6559d5.css",
+    "main.js": "/filtration-zone/static/js/main.995f2267.js",
+    "static/css/96.8934b316.chunk.css": "/filtration-zone/static/css/96.8934b316.chunk.css",
+    "static/js/96.4ecf5b22.chunk.js": "/filtration-zone/static/js/96.4ecf5b22.chunk.js",
+    "static/media/hero-banner.png": "/filtration-zone/static/media/hero-banner.0c365b6b46aba1c274ae.png",
+    "static/media/about-us.png": "/filtration-zone/static/media/about-us.3a1fec598c4f6ee04fb1.png",
+    "static/media/filter-housing.webp": "/filtration-zone/static/media/filter-housing.bd173f0fa213478e9cd4.webp",
+    "static/media/filters.webp": "/filtration-zone/static/media/filters.91788146c1184041dd34.webp",
+    "static/media/hero-banner-back.webp": "/filtration-zone/static/media/hero-banner-back.d0f60003082f588fc0a0.webp",
+    "static/media/tee-strainers.webp": "/filtration-zone/static/media/tee-strainers.48dfe735882bc9e02088.webp",
+    "static/media/flange1.webp": "/filtration-zone/static/media/flange1.26acf67b5fee74c42946.webp",
+    "static/media/valve2.webp": "/filtration-zone/static/media/valve2.1ba3d2fe7b8fcfbf00bb.webp",
+    "static/media/flange2.webp": "/filtration-zone/static/media/flange2.3ab8dd54d71ec8d91950.webp",
+    "static/media/valve1.webp": "/filtration-zone/static/media/valve1.fff732dde90be0080b18.webp",
+    "static/media/valve3.webp": "/filtration-zone/static/media/valve3.da8a75364fbbb8733286.webp",
+    "static/media/flange3.webp": "/filtration-zone/static/media/flange3.8735483ef25a10456258.webp",
+    "index.html": "/filtration-zone/index.html",
+    "main.8f6559d5.css.map": "/filtration-zone/static/css/main.8f6559d5.css.map",
+    "main.995f2267.js.map": "/filtration-zone/static/js/main.995f2267.js.map",
+    "96.8934b316.chunk.css.map": "/filtration-zone/static/css/96.8934b316.chunk.css.map",
+    "96.4ecf5b22.chunk.js.map": "/filtration-zone/static/js/96.4ecf5b22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f6559d5.css",
+    "static/js/main.995f2267.js"
+  ]
+}
