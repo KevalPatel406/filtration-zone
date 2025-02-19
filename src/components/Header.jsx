@@ -2,10 +2,10 @@ import React, { useState } from 'react'
 import { NavLink } from 'react-router-dom'
 
 import companyLogo from '../assets/companyLogo.png'
-import './styles/navbar.css'
+import './styles/header.css'
 import { IoMenu } from 'react-icons/io5';
 
-const Navbar = () => {
+const Header = () => {
 	const [showMenu, setShowMenu] = useState(false)
 
 	return (<header>
@@ -34,4 +34,4 @@ const Navbar = () => {
 	</header>)
 }
 
-export default Navbar
+export default Header
