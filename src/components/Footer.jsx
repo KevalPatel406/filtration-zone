@@ -24,14 +24,14 @@ const Footer = () => {
                         <li><NavLink to='/contact-us'>Contact Us</NavLink></li>
                     </ul>
                 </div>
-                <div className='product'>
+                {/* <div className='product'>
                     <p className='title'>Product Range</p>
                     <ul>
                         <li><NavLink to='/'>Pipeline Filters</NavLink></li>
                         <li><NavLink to='/'>Valve Housings</NavLink></li>
                         <li><NavLink to='/'>Flange Fittings</NavLink></li>
                     </ul>
-                </div>
+                </div> */}
                 <div className='contact'>
                     <p className='title'>Contact Us</p>
                     <ul>

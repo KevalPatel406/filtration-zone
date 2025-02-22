@@ -6,6 +6,7 @@ import Footer from './components/Footer'
 import Home from './pages/Home'
 
 const Products = lazy(() => import('./pages/Products'))
+const ContactUs = lazy(() => import('./pages/ContactUs'))
 
 const App = () => {
     return (
@@ -14,7 +15,9 @@ const App = () => {
             <div style={{ marginTop: '100px' }}>
                 <Routes>
                     <Route path='/' element={<Home />} />
+                    <Route path='/filtration-zone' element={<Home />} />
                     <Route path='/products' element={<Products />} />
+                    <Route path='/contact-us' element={<ContactUs />} />
                 </Routes>
             </div>
             <Footer />
